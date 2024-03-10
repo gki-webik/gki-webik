@@ -1,6 +1,6 @@
 <p><a href="https://github.com/gki-webik/gki-webik/blob/main/README.md">Російська мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-EN.md">Англійська мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-BE.md">Білоруська мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-UK.md">Українська мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-ZH.md">Китайська мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-DE.md">Німецька мова</a></p>
 <div align="center">
-  <kbd><img height="200" src="https://gki-webik.ru/files/images/user_ico/Picsart_24-01-16_13-08-02-981%20-%2030.01.24%20-%201706621640%20-%2040831.png"  /></kbd>
+  <kbd><img height="200" src="https://gki-webik.ru/files/images/regular/iconka.png"  /></kbd>
 </div>
 <h1 align="center">WEBIK - IT-проект, створений допомагати</h1>
 <br>

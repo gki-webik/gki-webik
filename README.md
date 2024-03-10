@@ -1,6 +1,6 @@
 <p><a href="https://github.com/gki-webik/gki-webik/blob/main/README.md"><img src="https://raw.githubusercontent.com/ashleedawg/flags/master/RU.png" alt="" /> Русский язык</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-EN.md"><img src="https://raw.githubusercontent.com/ashleedawg/flags/master/uk.png" alt="" /> Английский язык</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-BE.md"><img src="https://raw.githubusercontent.com/ashleedawg/flags/master/belarus.png" alt="" /> Белорусский язык</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-UK.md"><img src="https://raw.githubusercontent.com/ashleedawg/flags/master/ukraine.png" alt="" /> Украинский язык</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-ZH.md"><img src="https://raw.githubusercontent.com/ashleedawg/flags/master/china.png" alt="" /> Китайский язык</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-DE.md"><img src="https://raw.githubusercontent.com/ashleedawg/flags/master/DE.png" alt="" /> Немецкий язык</a></p>
 <div align="center">
-  <kbd><img height="200" src="https://gki-webik.ru/files/images/user_ico/Picsart_24-01-16_13-08-02-981%20-%2030.01.24%20-%201706621640%20-%2040831.png"  /></kbd>
+  <kbd><img height="200" src="https://gki-webik.ru/files/images/regular/iconka.png"  /></kbd>
 </div>
 <h1 align="center">WEBIK - IT-проект, созданный помогать</h1>
 <br>

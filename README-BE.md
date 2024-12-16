@@ -1,6 +1,6 @@
 <p><a href="https://github.com/gki-webik/gki-webik/blob/main/README.md">Руская мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-EN.md">Англійская мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-BE.md">Беларуская мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-UK.md">Украінская мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-ZH.md">Кітайская мова</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-DE.md">Нямецкая мова</a></p>
 <div align="center">
-  <kbd><img height="200" src="https://gki-webik.ru/files/images/regular/iconka.png"  /></kbd>
+  <kbd><img height="200" src="https://gki-webik.ru/mfs/s?path=/images/regular/iconka.png"  /></kbd>
 </div>
 <h1 align="center">WEBIK - IT-праект, створаны ў Беларусі</h1>
 <br>
@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />

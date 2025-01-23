@@ -30,6 +30,6 @@ ar
 </div>
 <br>
 <h2>重要事项</h2>
-<p><b>整个</b> 有关该项目及其创始人的信息，请访问 <a href="//gki-webik.ru/wk-data" target="_blank"></a>链接</p>
+<p><b>整个</b> 有关该项目及其创始人的信息，请访问 <a href="https://klicks.ru/my" target="_blank"></a>链接</p>
 <br>
 ©基里尔*伊万诺维奇*古利亚耶夫，2022-2024

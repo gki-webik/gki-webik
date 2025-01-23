@@ -29,6 +29,6 @@
 </div>
 <br>
 <h2>IMPORTANT</h2>
-<p><b>Whole</b> information about the project and its founder is available at <a href="//gki-webik.ru/wk-data" target="_blank">the link</a></p>
+<p><b>Whole</b> information about the project and its founder is available at <a href="https://klicks.ru/my" target="_blank">the link</a></p>
 <br>
-© Kirill Ivanovich Gulyaev, 2022-2024
+© Kirill Ivanovich Gulyaev, 2022-2025

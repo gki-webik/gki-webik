@@ -29,6 +29,6 @@
 </div>
 <br>
 <h2>WICHTIG</h2>
-<p><b>Alle</b> informationen über das Projekt und seinen Gründer finden Sie unter <a href="//gki-webik.ru/wk-data" target="_blank">link</a></p>
+<p><b>Alle</b> informationen über das Projekt und seinen Gründer finden Sie unter <a href="https://klicks.ru/my" target="_blank">link</a></p>
 <br>
-© 2022-2024, Kirill Iwanowitsch Gulyaev
+© 2022-2025, Kirill Iwanowitsch Gulyaev

@@ -1,7 +1,7 @@
 ar
 <p><a href="https://github.com/gki-webik/gki-webik/blob/main/README.md">俄语</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-EN.md">英国语文科</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-BE.md">白俄罗斯语</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-UK.md">乌克兰语</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-ZH.md">中国语文科</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-DE.md">德语</a></p>
 <div align="center">
-  <kbd><img height="200" src="https://gki-webik.ru/mfs/s?path=/images/regular/iconka.png"  /></kbd>
+  <kbd><img height="200" src="https://mfs.gki-webik.ru/s?path=/images/regular/iconka.png"  /></kbd>
 </div>
 <h1 align="center">WEBIK是一个为帮助用户而创建的IT项目</h1>
 <br>

@@ -1,6 +1,6 @@
 <p><a href="https://github.com/gki-webik/gki-webik/blob/main/README.md">Russisch</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-EN.md">Das Englische</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-BE.md">Belarussische Sprache</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-UK.md">Ukrainisch</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-ZH.md">Chinesische Sprache</a> | <a href="https://github.com/gki-webik/gki-webik/blob/main/README-DE.md">Deutsche Sprache</a></p>
 <div align="center">
-  <kbd><img height="200" src="https://gki-webik.ru/mfs/s?path=/images/regular/iconka.png"  /></kbd>
+  <kbd><img height="200" src="https://mfs.gki-webik.ru/s?path=/images/regular/iconka.png"  /></kbd>
 </div>
 <h1 align="center">WEBIK - IT-Projekt, erstellt um zu helfen</h1>
 <br>
